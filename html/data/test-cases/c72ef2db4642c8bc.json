@@ -1,0 +1,59 @@
+{
+  "uid" : "c72ef2db4642c8bc",
+  "name" : "test004",
+  "fullName" : "scripts.test01.Test001#test004",
+  "historyId" : "e54b3e65d972e1021d3076c7684357be",
+  "time" : {
+    "start" : 1600136785439,
+    "stop" : 1600136785439,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test01"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test001"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3UT5IQU"
+  }, {
+    "name" : "thread",
+    "value" : "10552-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c72ef2db4642c8bc.json",
+  "parameterValues" : [ ]
+}
